@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Konopus.MariePeezdostrike;
+package com.Konopus.IfB;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

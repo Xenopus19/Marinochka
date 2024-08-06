@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Konopus.MariePeezdostrike;
+package com.Konopus.IfB;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;
