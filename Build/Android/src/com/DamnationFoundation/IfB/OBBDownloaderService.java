@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Konopus.IfB;
+package com.DamnationFoundation.IfB;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.Konopus.IfB.AlarmReceiver.class.getName();
+        return com.DamnationFoundation.IfB.AlarmReceiver.class.getName();
     }
 }

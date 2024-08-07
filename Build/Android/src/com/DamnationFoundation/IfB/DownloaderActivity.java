@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Konopus.IfB;
+package com.DamnationFoundation.IfB;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

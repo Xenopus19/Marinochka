@@ -1,10 +1,10 @@
 package com.epicgames.unreal;
 
-import com.Konopus.IfB.OBBDownloaderService;
-import com.Konopus.IfB.DownloaderActivity;
+import com.DamnationFoundation.IfB.OBBDownloaderService;
+import com.DamnationFoundation.IfB.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.Konopus.IfB.OBBData;
+import com.DamnationFoundation.IfB.OBBData;
 
 
 public class DownloadShim

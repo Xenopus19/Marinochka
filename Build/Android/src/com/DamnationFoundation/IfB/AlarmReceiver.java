@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.Konopus.IfB;
+package com.DamnationFoundation.IfB;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

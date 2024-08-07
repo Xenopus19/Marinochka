@@ -1,4 +1,4 @@
-package com.Konopus.IfB;
+package com.DamnationFoundation.IfB;
 
 public class OBBData
 {
@@ -19,7 +19,7 @@ public static final XAPKFile[] xAPKS = {
 new XAPKFile(
 true, // true signifies a main file
 "1", // the version of the APK that the file was uploaded against
-860546080L // the length of the file in bytes
+348484958L // the length of the file in bytes
 )
 };
 };
